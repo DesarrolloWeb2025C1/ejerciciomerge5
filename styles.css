@@ -11,11 +11,12 @@ body {
 
 /* Colores principales  */
 :root {
-    --celeste: #006bc2;
-    --celeste-claro: #006bc2;
-    --blanco: #bcd9ff;
+    --celeste: #f8eea7;
+    --celeste-claro: #f1c3de;
+    --blanco: #ffbcf9;
     --gris: #333;
 }
+
 
 /* Header y Navegación */
 header {
